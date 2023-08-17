@@ -1,4 +1,4 @@
-# how to use the ai models `
+# how to use the ai models 
 
 # Emotion Detection Model
 
