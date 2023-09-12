@@ -1,5 +1,5 @@
 # how to use the ai models 
-## API coming soon
+## API coming soon 
 # Emotion Detection Model
 
 This code loads a pretrained model for detecting emotions in text.
