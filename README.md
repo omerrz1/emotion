@@ -1,5 +1,4 @@
 ## My website https://www.imomer.net
-## API coming soon 
 # Emotion Detection Model
 This code loads a pretrained model for detecting emotions in text.
 # api Documentation
