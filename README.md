@@ -2,9 +2,12 @@
 # Emotion Detection Model
 
 ## api Documentation
- root : http://api.imomer.net/ai/
+root : http://api.imomer.net/ai/
+ 
 endpoint /emotions/
+
  method : POST
+ 
  data : {text:'text to predict'}
  
 ```python
