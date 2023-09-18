@@ -4,6 +4,35 @@
 # Emotion Detection Model
 
 This code loads a pretrained model for detecting emotions in text.
+## api 
+```python
+import requests
+
+endpoint = 'http://api.imomer.net/ai/emotions/'
+resp = requests.post(endpoint,data={'text':'i dont know where im going'})
+print(resp.json())
+
+```
+```python
+response:
+{'emotion': 'confusion'}
+```
+
+
+```python
+import requests
+
+endpoint = 'http://api.imomer.net/ai/emotions/'
+resp = requests.post(endpoint,data={'text':'i hope that i pass this exam'})
+print(resp.json())
+```
+
+```python
+response:
+{'emotion': 'optimism'}
+```
+
+
 ### Imports and Data Loading
 ```python
 
