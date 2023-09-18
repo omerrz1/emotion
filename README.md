@@ -1,8 +1,6 @@
 ## My website https://www.imomer.net
-# how to use the ai models 
 ## API coming soon 
 # Emotion Detection Model
-
 This code loads a pretrained model for detecting emotions in text.
 # api Documentation
 ## root : http://api.imomer.net/ai/
@@ -36,6 +34,7 @@ response:
 {'emotion': 'optimism'}
 ```
 
+# how to use the ai models in your local device 
 
 ### Imports and Data Loading
 ```python
