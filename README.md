@@ -1,11 +1,12 @@
 ## My website https://www.imomer.net
 # Emotion Detection Model
-This code loads a pretrained model for detecting emotions in text.
-# api Documentation
-## root : http://api.imomer.net/ai/
-## endpoint /emotions/
-## method : POST
-## data : {text:'text to predict'}
+
+## api Documentation
+ root : http://api.imomer.net/ai/
+endpoint /emotions/
+ method : POST
+ data : {text:'text to predict'}
+ 
 ```python
 import requests
 
