@@ -9,7 +9,8 @@ endpoint /emotions/
  method : POST
  
  data : {text:'text to predict'}
- 
+
+ # example 1
 ```python
 import requests
 
@@ -23,7 +24,7 @@ response:
 {'emotion': 'confusion'}
 ```
 
-
+# example 2
 ```python
 import requests
 
