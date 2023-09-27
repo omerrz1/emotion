@@ -1,4 +1,4 @@
-## My website https://www.imomer.net
+
 # Emotion Detection Model
 
 ## api Documentation
